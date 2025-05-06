@@ -8,7 +8,7 @@ Follow these steps to begin your AI and cybersecurity journey.
 3. Select the almost invisible plus sign (+) towards the upper right corner.
 4. Enter the descriptions for `What you are working on` and `What are you trying to achieve` and select `Create Knowledge`.
 5. Select the plus sign (+) in the upper right corner once more and select `Upload files`.
-6. Navigate to your login data (or use the fake data generated within this repository).
+6. Navigate to your login data (or use the fake data generated within this repository [HERE](https://github.com/Matt-M-3/login-ai-analysis/blob/main/fake_auth_log.log)).
 7. Select `New Chat` in the upper left corner, ensuring a model is also selected as well.
 
 You are now ready to begin asking questions of your data. Try a prompt similar to the following:
